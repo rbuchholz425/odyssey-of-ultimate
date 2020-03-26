@@ -1,2 +1,2 @@
-# super-smash-lore
-Capstone Project: Super Smash Bros lore companion app.
+# Odyssey of Ultimate
+The next step in the Super Smash Lore project.
